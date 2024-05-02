@@ -20,7 +20,7 @@ AI assistants are applications powered by watsonx. Deploy them to automate workf
 * **watsonx Code Assistant**: Purpose-built for targeted use cases, IBM watsonx™ Code Assistant™ leverages generative AI to increase developer productivity of all experience levels, reduce coding complexity, and accelerate developer onboarding.
 * **watsonx Orchestrate**: With an expanding catalog of capabilities, use IBM watsonx™ Orchestrate™ to delegate common and complex talent management tasks such as creating a job description, pulling a report in Salesforce or SAP SuccessFactors, sourcing candidates and more using natural language.
 
-##Use cases
+## Use cases
 Explore what you can do with watsonx to deploy and embed AI across your business. 
 
 ### Boost employee productivity with RAG
